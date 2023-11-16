@@ -7,6 +7,7 @@ Este código é uma implementação básica de um aplicativo web usando **Flask*
 * Configuração do Flask, SQLAlchemy, e Migrate (para migrações do banco de dados).
 * Inicialização da aplicação Flask.
 
+<<<<<<< Updated upstream
    ![Configuração Inicial](https://github.com/xgustavohf/API_CRUD_Flask/assets/56177561/88970c50-f313-40f8-9e30-ff9811720364)
 
 
@@ -31,4 +32,15 @@ Este código é uma implementação básica de um aplicativo web usando **Flask*
 
 
 
+=======
+2. **Rotas e Blueprints:**
+* Define rotas para manipulação de usuários, utilizando um Blueprint para organizar o código.
+
+3. **Controladores (Controllers):**
+* Funções para manipular operações CRUD no banco de dados.
+
+4. **Modelo de Dados (Data Model):**
+* Define a estrutura do modelo de usuário no banco de dados.
+
+>>>>>>> Stashed changes
 Cada parte do código desempenha um papel específico no funcionamento do aplicativo web, desde a configuração inicial até a definição do modelo de dados e as operações CRUD nos controladores.
